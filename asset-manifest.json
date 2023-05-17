@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/amj-webdev.github.io%20/static/css/main.80110415.css",
-    "main.js": "/amj-webdev.github.io%20/static/js/main.080e0bdd.js",
-    "static/js/787.fa908320.chunk.js": "/amj-webdev.github.io%20/static/js/787.fa908320.chunk.js",
-    "static/media/About-us-v1.png": "/amj-webdev.github.io%20/static/media/About-us-v1.dd267194dd4e36d6c6f6.png",
-    "static/media/about-me-background-3.mp4": "/amj-webdev.github.io%20/static/media/about-me-background-3.2906a55d9ce2e92a3e13.mp4",
-    "static/media/cube-index.mp4": "/amj-webdev.github.io%20/static/media/cube-index.7175f05b058be0991d37.mp4",
-    "static/media/screen-coding.mp4": "/amj-webdev.github.io%20/static/media/screen-coding.25458e27b29ab398b7e5.mp4",
-    "static/media/camera.mp4": "/amj-webdev.github.io%20/static/media/camera.b95d7e929ada368911a5.mp4",
-    "static/media/index.jpg": "/amj-webdev.github.io%20/static/media/index.38a4925331fd3f1c2880.jpg",
-    "static/media/test.jpg": "/amj-webdev.github.io%20/static/media/test.b4f2406785e033ff8903.jpg",
-    "index.html": "/amj-webdev.github.io%20/index.html",
-    "main.80110415.css.map": "/amj-webdev.github.io%20/static/css/main.80110415.css.map",
-    "main.080e0bdd.js.map": "/amj-webdev.github.io%20/static/js/main.080e0bdd.js.map",
-    "787.fa908320.chunk.js.map": "/amj-webdev.github.io%20/static/js/787.fa908320.chunk.js.map"
+    "main.css": "/amj-webdev.github.io/static/css/main.d592b587.css",
+    "main.js": "/amj-webdev.github.io/static/js/main.96194552.js",
+    "static/js/787.fa908320.chunk.js": "/amj-webdev.github.io/static/js/787.fa908320.chunk.js",
+    "static/media/About-us-v1.png": "/amj-webdev.github.io/static/media/About-us-v1.dd267194dd4e36d6c6f6.png",
+    "static/media/about-me-background-3.mp4": "/amj-webdev.github.io/static/media/about-me-background-3.2906a55d9ce2e92a3e13.mp4",
+    "static/media/cube-index.mp4": "/amj-webdev.github.io/static/media/cube-index.7175f05b058be0991d37.mp4",
+    "static/media/screen-coding.mp4": "/amj-webdev.github.io/static/media/screen-coding.25458e27b29ab398b7e5.mp4",
+    "static/media/camera.mp4": "/amj-webdev.github.io/static/media/camera.b95d7e929ada368911a5.mp4",
+    "static/media/index.jpg": "/amj-webdev.github.io/static/media/index.38a4925331fd3f1c2880.jpg",
+    "static/media/test.jpg": "/amj-webdev.github.io/static/media/test.b4f2406785e033ff8903.jpg",
+    "index.html": "/amj-webdev.github.io/index.html",
+    "main.d592b587.css.map": "/amj-webdev.github.io/static/css/main.d592b587.css.map",
+    "main.96194552.js.map": "/amj-webdev.github.io/static/js/main.96194552.js.map",
+    "787.fa908320.chunk.js.map": "/amj-webdev.github.io/static/js/787.fa908320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80110415.css",
-    "static/js/main.080e0bdd.js"
+    "static/css/main.d592b587.css",
+    "static/js/main.96194552.js"
   ]
 }
