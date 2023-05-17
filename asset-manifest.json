@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amj-webdev.github.io/static/css/main.d592b587.css",
-    "main.js": "/amj-webdev.github.io/static/js/main.96194552.js",
+    "main.js": "/amj-webdev.github.io/static/js/main.c221278a.js",
     "static/js/787.fa908320.chunk.js": "/amj-webdev.github.io/static/js/787.fa908320.chunk.js",
     "static/media/About-us-v1.png": "/amj-webdev.github.io/static/media/About-us-v1.dd267194dd4e36d6c6f6.png",
     "static/media/about-me-background-3.mp4": "/amj-webdev.github.io/static/media/about-me-background-3.2906a55d9ce2e92a3e13.mp4",
@@ -12,11 +12,11 @@
     "static/media/test.jpg": "/amj-webdev.github.io/static/media/test.b4f2406785e033ff8903.jpg",
     "index.html": "/amj-webdev.github.io/index.html",
     "main.d592b587.css.map": "/amj-webdev.github.io/static/css/main.d592b587.css.map",
-    "main.96194552.js.map": "/amj-webdev.github.io/static/js/main.96194552.js.map",
+    "main.c221278a.js.map": "/amj-webdev.github.io/static/js/main.c221278a.js.map",
     "787.fa908320.chunk.js.map": "/amj-webdev.github.io/static/js/787.fa908320.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d592b587.css",
-    "static/js/main.96194552.js"
+    "static/js/main.c221278a.js"
   ]
 }
