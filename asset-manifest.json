@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf3d96d8.css",
-    "main.js": "/static/js/main.7cf2ba17.js",
+    "main.css": "/static/css/main.32cfcf4c.css",
+    "main.js": "/static/js/main.7ead770b.js",
     "static/js/787.fa908320.chunk.js": "/static/js/787.fa908320.chunk.js",
     "static/media/mist_photodesign_360p.mp4": "/static/media/mist_photodesign_360p.b61bcf4d3f47f0524730.mp4",
     "static/media/milosz_alpha.png": "/static/media/milosz_alpha.6cfdecb6e145fcafe621.png",
@@ -19,12 +19,12 @@
     "static/media/MistPhotodesign_thumbnail.jpg": "/static/media/MistPhotodesign_thumbnail.90c03be8e83d2f097501.jpg",
     "static/media/FizjoWolny_ThumbNail_360p-2.jpg": "/static/media/FizjoWolny_ThumbNail_360p-2.f6949ede6acb8aed5c11.jpg",
     "index.html": "/index.html",
-    "main.bf3d96d8.css.map": "/static/css/main.bf3d96d8.css.map",
-    "main.7cf2ba17.js.map": "/static/js/main.7cf2ba17.js.map",
+    "main.32cfcf4c.css.map": "/static/css/main.32cfcf4c.css.map",
+    "main.7ead770b.js.map": "/static/js/main.7ead770b.js.map",
     "787.fa908320.chunk.js.map": "/static/js/787.fa908320.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf3d96d8.css",
-    "static/js/main.7cf2ba17.js"
+    "static/css/main.32cfcf4c.css",
+    "static/js/main.7ead770b.js"
   ]
 }
